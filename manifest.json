@@ -1,11 +1,11 @@
 {
-  "bundle_version": "2026.04.recipes2000.v20260425200915",
-  "published_at": "2026-04-25T20:09:15Z",
-  "artifact_url": "https://anonymous-coder1.github.io/zestt-recipe-feed/bundles/recipes_2026.04.recipes2000.v20260425200915.jsonl.gz",
-  "sha256": "162cdc0626d586fe55fc706f1dabd96ee42e3787633f3c1a510aded81754592b",
-  "size_bytes": 1065804,
+  "bundle_version": "2026.04.recipes2000.v20260428200649",
+  "published_at": "2026-04-28T20:06:49Z",
+  "artifact_url": "https://anonymous-coder1.github.io/zestt-recipe-feed/bundles/recipes_2026.04.recipes2000.v20260428200649.jsonl.gz",
+  "sha256": "586eb2aa7cc25c7cae0af0ece2c28c629f84af03971e1e6387336869ab81399f",
+  "size_bytes": 1389246,
   "bucket_index_url": "https://anonymous-coder1.github.io/zestt-recipe-feed/bucket_index.json",
-  "bucket_count": 389,
+  "bucket_count": 429,
   "min_app_version": "0.2.0",
   "format_version": "zestt.recipe_feed.v1"
 }
